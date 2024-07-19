@@ -1,6 +1,9 @@
 # ESP32_Simulation
  This repository includes controlling the LED based on the retrieved value from the HTTP get request using the simulated ESP32
 
+![Screenshot 2024-07-19 045745](https://github.com/user-attachments/assets/c1a0a581-b167-486c-83df-95ac3a28c76a)
+
+
 Step 1:
 Established a WiFi connection
 
@@ -33,3 +36,5 @@ if the retrieved value is right the green  will turn on
 
 ![Screenshot 2024-07-19 043501](https://github.com/user-attachments/assets/96080a7e-adaa-48cd-a0a5-4167fb33698a)
 
+link:
+https://wokwi.com/projects/403740586618308609
