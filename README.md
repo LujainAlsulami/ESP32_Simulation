@@ -38,3 +38,10 @@ if the retrieved value is right the green  will turn on
 
 link:
 https://wokwi.com/projects/403740586618308609
+
+--------------------------------------------------------
+Here is the demonstration in the ESP32 that used HTTP request to my previous webpage and turn LEDs based on the returned values. 
+
+
+https://github.com/user-attachments/assets/80513851-c369-43ca-917f-600d38801f0d
+
